@@ -1,0 +1,47 @@
+
+fire_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire5
+  rotate: false
+  xy: 1, 94
+  size: 32, 157
+  orig: 32, 157
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 35, 96
+  size: 31, 155
+  orig: 31, 155
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 68, 94
+  size: 29, 157
+  orig: 29, 157
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 99, 141
+  size: 34, 110
+  orig: 34, 110
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 1, 1
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 135, 190
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1

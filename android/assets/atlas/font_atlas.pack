@@ -1,0 +1,84 @@
+
+font_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greenpil
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+impactlabel64
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+littlebird64
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+littlebird841
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+littlebird842
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roboto64
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+font_atlas7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zenga64
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

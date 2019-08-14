@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="100" height="26" tilewidth="16" tileheight="16" infinite="0" nextlayerid="82" nextobjectid="1065">
+ <tileset firstgid="1" source="../tileset_gutter.tsx"/>
+ <tileset firstgid="925" source="../tilesets/platformer/platformer_tileset.tsx"/>
+ <layer id="78" name="graphics 0" width="100" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztmLFOwzAQhp0mGyMVCxMDCw8AT8AEAqQ+AisImBgBiSEvgDox8EDwGLDwENiqol6vOZ/t2PEl5JN+pWrqxPWXy0VRamJiYuJ/cT3LPQMZHFWb21y8Ih+nmeeD+ShXwZ9jI9lHX072Epwn9JjSfYQ4WRZKvRVuv22u9ZjX+2+5ji99+LgAobD5cHUC18HkPdE9heOzXAeTohZ9uQKh4Hy4OIHrYPIV0YlP/6B8uNRNyvpoauIOhKoTFx+cE+wjthNXKB+2uukDWBf3yl4nrj5sTtp85HAiyceTXtdnnZfZ5vo/qG0fCzDOxwflhPLBOYl9T4fnhevB+YC/xfNbtA/ZAvfQseXHIX3Oh2NfwPMCxU7VPVzPovaHnCsWkp10JdRHLsbswjA0H4YYTuruh0iCdB943WLWh0Qnkn3UIJBQJzWR2JwVSp1b3md9l6u0wT135/JRE9sh1MeNdnHr+H7RxqHAXtG2Zin6R6WPeekZii4+pNZHQ8r+0WBc7OoceIYC+7DdnzCS+4chVX00hLrw8eGDdB8YKS5i+cC1MzQfBujkUf/vY52Tor3/wf2Qri6wD3ge7APPwdanY/rg1sZlHPe9b88da+ZMQsZQ42z5A9jhBXE=
+  </data>
+ </layer>
+ <objectgroup id="58" name="boarder 1">
+  <object id="726" x="0" y="400" width="1056" height="16"/>
+  <object id="921" x="1184" y="400" width="80" height="16"/>
+  <object id="922" x="1408" y="400" width="192" height="16"/>
+  <object id="959" x="896" y="320" width="144" height="16"/>
+  <object id="960" x="896" y="288" width="144" height="16"/>
+  <object id="961" x="896" y="336" width="16" height="64"/>
+  <object id="962" x="1024" y="336" height="64"/>
+  <object id="963" x="896" y="208" width="16" height="80"/>
+  <object id="964" x="1024" y="208" width="16" height="80"/>
+  <object id="976" x="0" y="192" width="896" height="16"/>
+  <object id="977" x="1040" y="192" width="432" height="16"/>
+  <object id="1055" x="1056" y="416" width="128"/>
+  <object id="1056" x="1264" y="416" width="144"/>
+  <object id="1060" x="896" y="208" width="144"/>
+  <object id="1063" x="1600" y="0" height="416"/>
+ </objectgroup>
+ <objectgroup id="59" name="brick 2">
+  <object id="809" x="656" y="288" width="32" height="112"/>
+  <object id="820" x="720.25" y="336" width="31.25" height="8.75"/>
+  <object id="822" x="783.75" y="288" width="32.25" height="8.75"/>
+  <object id="823" x="832" y="368" width="31.75" height="8.75"/>
+  <object id="947" x="0" y="0" width="1600"/>
+  <object id="949" x="368" y="320" width="192" height="80"/>
+  <object id="973" x="1104" y="96" width="48" height="96"/>
+  <object id="974" x="1200" y="128" width="48" height="64"/>
+  <object id="988" x="560" y="112" width="64" height="80"/>
+  <object id="989" x="768" y="96" width="48" height="8.75"/>
+  <object id="992" x="928" y="128" width="31.75" height="8.75"/>
+  <object id="993" x="976.125" y="128.375" width="31.75" height="8.75"/>
+  <object id="994" x="976.375" y="64.125" width="31.75" height="8.75"/>
+  <object id="995" x="927.875" y="64.375" width="31.75" height="8.75"/>
+  <object id="1005" x="352" y="176" width="128" height="16"/>
+  <object id="1006" x="352" y="160" width="112" height="16"/>
+  <object id="1007" x="352" y="144" width="96" height="16"/>
+  <object id="1008" x="352" y="128" width="80" height="16"/>
+  <object id="1009" x="352" y="112" width="64" height="16"/>
+  <object id="1010" x="352" y="96" width="48" height="16"/>
+  <object id="1011" x="352" y="80" width="32" height="16"/>
+  <object id="1047" x="352" y="64" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="60" name="sharp_object 3">
+  <object id="861" x="624" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="862" x="640" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="863" x="656" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="864" x="672" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="865" x="688" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="866" x="704" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="867" x="720" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="868" x="736" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="869" x="752" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="870" x="768" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="871" x="784" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="872" x="800" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="873" x="816" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="874" x="832" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="875" x="848" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="876" x="864" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="877" x="880" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="884" x="1120" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="899" x="1136" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="900" x="1152" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="901" x="1168" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="902" x="1184" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="903" x="1200" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="904" x="1216" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="905" x="1232" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="906" x="1248" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="907" x="1264" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="908" x="1280" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="909" x="1296" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="910" x="1312" y="208">
+   <polygon points="0,0 7.25,16.25 16,0"/>
+  </object>
+  <object id="1057" x="1056.75" y="408">
+   <polygon points="0,0 127.5,-1.25 127.25,8 -0.75,8"/>
+  </object>
+  <object id="1058" x="1264" y="408">
+   <polygon points="0,0 144.5,-1.5 144,8 0,8"/>
+  </object>
+  <object id="1061" x="896" y="208">
+   <polygon points="0,0 0,-8.5 143.75,-9.25 144,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="62" name="beer 4">
+  <object id="975" x="1312" y="96" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="63" name="gem 5">
+  <object id="827" x="800" y="368" width="16" height="16"/>
+  <object id="828" x="864" y="320" width="16" height="16"/>
+  <object id="845" x="1072" y="336" width="16" height="16"/>
+  <object id="848" x="1152" y="336" width="16" height="16"/>
+  <object id="849" x="1088" y="320" width="16" height="16"/>
+  <object id="850" x="1104" y="320" width="16" height="16"/>
+  <object id="851" x="1120" y="320" width="16" height="16"/>
+  <object id="852" x="1136" y="320" width="16" height="16"/>
+  <object id="853" x="1280" y="336" width="16" height="16"/>
+  <object id="854" x="1376" y="336" width="16" height="16"/>
+  <object id="855" x="1296" y="320" width="16" height="16"/>
+  <object id="856" x="1312" y="304" width="16" height="16"/>
+  <object id="857" x="1328" y="304" width="16" height="16"/>
+  <object id="858" x="1360" y="320" width="16" height="16"/>
+  <object id="859" x="1344" y="304" width="16" height="16"/>
+  <object id="913" x="1184" y="256" width="16" height="16"/>
+  <object id="915" x="1200" y="240" width="16" height="16"/>
+  <object id="918" x="1216" y="240" width="16" height="16"/>
+  <object id="919" x="1232" y="240" width="16" height="16"/>
+  <object id="920" x="1248" y="256" width="16" height="16"/>
+  <object id="979" x="928" y="160" width="16" height="16"/>
+  <object id="980" x="960" y="160" width="16" height="16"/>
+  <object id="981" x="992" y="160" width="16" height="16"/>
+  <object id="982" x="935.75" y="39.5833" width="16" height="16"/>
+  <object id="984" x="936" y="103.333" width="16" height="16"/>
+  <object id="996" x="984.25" y="39.7501" width="16" height="16"/>
+  <object id="997" x="984.5" y="103.5" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="64" name="invi_rune 6"/>
+ <objectgroup id="65" name="anti_haste_rune 7">
+  <object id="1018" x="768" y="64" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="66" name="love 8">
+  <object id="783" x="128" y="288" width="16" height="16"/>
+  <object id="784" x="160" y="288" width="16" height="16"/>
+  <object id="785" x="192" y="288" width="16" height="16"/>
+  <object id="953" x="592" y="304" width="16" height="16"/>
+  <object id="971" x="1408" y="80" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="67" name="rotating_block 9"/>
+ <objectgroup id="68" name="monster 10">
+  <object id="824" x="858.917" y="281" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="825" x="753.083" y="284" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="826" x="790.917" y="340.333" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1013" x="438.416" y="240.833" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1014" x="508.917" y="269.5" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="69" name="ghost 11">
+  <object id="965" x="944" y="240" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="966" x="992" y="240" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1015" x="939" y="361.667" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1016" x="987" y="361.667" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1017" x="1167.33" y="146.333" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1048" x="1552" y="224" width="16" height="16"/>
+  <object id="1049" x="1488" y="336" width="16" height="16"/>
+  <object id="1053" x="1232" y="320" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1054" x="1312.67" y="356" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1064" x="1152" y="272" width="16" height="16">
+   <properties>
+    <property name="level" type="int" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="70" name="john_cena 12"/>
+ <objectgroup id="71" name="key 13">
+  <object id="1045" x="640.333" y="49.3333">
+   <polygon points="0,0 0,16 16,0 16,-16 0,-16 -16,-16 -16,0 0,16"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="72" name="lock 14">
+  <object id="1046" x="608" y="112">
+   <polygon points="0,0 2.81818,-2.72727 -2.72727,-2.63636"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="73" name="bullet 15"/>
+ <objectgroup id="74" name="vanishable_block 16">
+  <object id="1021" x="560" y="0" width="32" height="112"/>
+ </objectgroup>
+ <objectgroup id="75" name="small_fire 17"/>
+ <objectgroup id="76" name="big_fire 18"/>
+ <objectgroup id="77" name="door 19">
+  <object id="946" x="160" y="160" width="16" height="32"/>
+ </objectgroup>
+ <objectgroup id="80" name="polybrick 20">
+  <object id="948" x="288" y="400">
+   <polygon points="0,0 80,-80 80,0"/>
+  </object>
+  <object id="1000" x="624" y="112">
+   <polygon points="0,0 80,80 0,80"/>
+  </object>
+  <object id="1001" x="608" y="112">
+   <polygon points="0,0 -16,-16 -16,0"/>
+  </object>
+  <object id="1002" x="624" y="96">
+   <polygon points="0,0 0,16 -16,16"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="81" name="treasure 21"/>
+</map>

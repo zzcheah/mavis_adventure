@@ -1,0 +1,201 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ashes
+  rotate: false
+  xy: 1, 952
+  size: 720, 60
+  orig: 720, 60
+  offset: 0, 0
+  index: -1
+rectangle_block
+  rotate: false
+  xy: 1, 430
+  size: 260, 520
+  orig: 260, 520
+  offset: 0, 0
+  index: -1
+john_cena153
+  rotate: false
+  xy: 263, 797
+  size: 612, 153
+  orig: 612, 153
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 263, 608
+  size: 296, 187
+  orig: 296, 187
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 1, 215
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+blue_rectangle
+  rotate: false
+  xy: 263, 455
+  size: 270, 151
+  orig: 270, 151
+  offset: 0, 0
+  index: -1
+anti_haste_button
+  rotate: false
+  xy: 1, 19
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+empty_button
+  rotate: false
+  xy: 561, 601
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+invi_button
+  rotate: false
+  xy: 757, 601
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+love20
+  rotate: false
+  xy: 723, 987
+  size: 280, 25
+  orig: 280, 25
+  offset: 0, 0
+  index: -1
+love
+  rotate: false
+  xy: 535, 424
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+beer
+  rotate: false
+  xy: 712, 429
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 877, 841
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+anti_haste_rune
+  rotate: false
+  xy: 884, 471
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+treasure
+  rotate: false
+  xy: 216, 284
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+invi_rune
+  rotate: false
+  xy: 362, 325
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+empty_star
+  rotate: false
+  xy: 216, 164
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+filled_star
+  rotate: false
+  xy: 197, 44
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 884, 423
+  size: 138, 46
+  orig: 138, 46
+  offset: 0, 0
+  index: -1
+movable_box
+  rotate: false
+  xy: 953, 769
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+anti_haste_buff
+  rotate: false
+  xy: 492, 322
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+drunk_buff
+  rotate: false
+  xy: 594, 322
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+invi_buff
+  rotate: false
+  xy: 362, 223
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+back_button
+  rotate: false
+  xy: 464, 240
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+monster
+  rotate: false
+  xy: 546, 243
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+checked
+  rotate: false
+  xy: 953, 701
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+unchecked
+  rotate: false
+  xy: 625, 254
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+mavis
+  rotate: false
+  xy: 1, 1
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1

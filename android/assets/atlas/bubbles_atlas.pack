@@ -1,0 +1,61 @@
+
+bubbles_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+circle4
+  rotate: false
+  xy: 1, 12
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+circle3
+  rotate: false
+  xy: 124, 40
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+bubble4
+  rotate: false
+  xy: 213, 46
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 299, 59
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 367, 62
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 299, 1
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+circle1
+  rotate: false
+  xy: 434, 78
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 213, 1
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
